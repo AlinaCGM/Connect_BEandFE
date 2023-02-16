@@ -42,3 +42,4 @@ Design the website with product and user. What kind of product, for example: ele
 ## Useful sources
 
 1. Styling: could take the idea from the website: `https://www2.hm.com/`
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Your_GitHub_Username&theme=blue-green)
